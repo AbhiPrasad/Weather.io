@@ -2,7 +2,7 @@
 
 A chrome extension that shows you the weather at your location.
 
-![Screenshot](raw=true "Screenshot")
+![Screenshot](Weather.io/screenshot.png?raw=true "Screenshot")
 
 Ported from my [weather web app](https://github.com/AbhiPrasad/Weather-App)
 
