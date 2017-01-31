@@ -10,13 +10,13 @@
         "128": "icons/icon128.png"
     },
     "default_locale": "en",
-    "background": {
-        "page": "src/bg/background.html",
-        "persistent": true
-    },
     "browser_action": {
         "default_icon": "icons/icon19.png",
         "default_title": "Weather",
-        "default_popup": "src/browser_action/index.html"
-    }
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "https://maxcdn.bootstrapcdn.com/",
+        "geolocation"
+    ]
 }
