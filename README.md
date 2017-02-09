@@ -1,4 +1,4 @@
-## Weather.io
+## :umbrella: Weather.io
 
 A chrome extension that shows you the weather at your location.
 
